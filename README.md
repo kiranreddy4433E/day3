@@ -14,7 +14,7 @@ Welcome to **Day 3** of my **100 Days of Code Challenge**! Today, I worked on a 
 - **Concepts:** ASCII values, Character data types, Input/Output handling in Java
 
 ## Links to Code
-- [Day 3 Code Repository](#link-to-repository): This repository contains the code solution for the ASCII value problem.
+- [Day 3 Code pro_12.java](#https://github.com/kiranreddy4433E/day3/blob/main/pro_12.java): This repository contains the code solution for the ASCII value problem.
 
 ## Lessons Learned
 - Learned how to use Java to convert **characters** into their **ASCII values**.
