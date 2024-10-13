@@ -28,3 +28,34 @@ Welcome to **Day 3** of my **100 Days of Code Challenge**! Today, I worked on a 
 - **Email:** [kiranreddy4746@gmail.com](mailto:kiranreddy4746@gmail.com)
 - **LinkedIn:** [Chandra Kiran Reddy Reddycharla](https://www.linkedin.com/in/chandra-kiran-reddy-reddycharla-a9a746230/)
 - **Twitter:** [@kiran4746](https://twitter.com/kiran4746)
+
+---
+
+## Code Example
+
+```java
+package dsa;
+import java.util.Scanner;
+public class pro_12 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter a  character");
+		char ch = input.next().charAt(0);
+		System.out.println("you entered character :- " + ch);
+		int asciiValue = ch ;
+		System.out.println("The ASCII value of " + ch + " is = " + asciiValue);		
+	}
+}
+
+
+```
+----
+
+## Problem Description
+- The problem I worked on today was to create a program that takes a single alphabet character as input and prints its corresponding **ASCII value**.
+- **Input/Output Example**:
+  - Input: `B`
+  - Output: `66`
+  - Input: `b`
+  - Output: `98`
