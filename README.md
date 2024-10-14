@@ -31,6 +31,9 @@ Welcome to **Day 3** of my **100 Days of Code Challenge**! Today, I worked on a 
 
 ---
 
+
+**[100 Days of Code](https://www.100daysofcode.com/)** is a challenge created by Ajinka Kulakarni, Amit Prabhu. You can find more information about it and join the community using the hashtag `#100DaysOfCode` on Linked in.
+
 ## Code Example
 
 ```java
